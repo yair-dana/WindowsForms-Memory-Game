@@ -88,7 +88,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Project1\GameLogic.csproj">
+    <ProjectReference Include="..\GameLogic\GameLogic.csproj">
       <Project>{03dc3f32-aff9-4886-8236-a1195c3710c0}</Project>
       <Name>GameLogic</Name>
     </ProjectReference>
